@@ -790,8 +790,8 @@ onMounted(() => {
 }
 
 .flashcard-back p {
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 0.8rem;
+  line-height: 1.5;
   color: var(--text-secondary);
 }
 
